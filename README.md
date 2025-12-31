@@ -184,11 +184,3 @@ The YouTube Data API has daily quota limits:
 
 Feel free to open issues or submit pull requests if you have suggestions for improvements!
 
-## 📄 License
-
-This project is open source and available under the MIT License.
-
-## 🙏 Acknowledgments
-
-Built using Google's YouTube Data API v3
-
